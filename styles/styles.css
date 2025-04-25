@@ -21,3 +21,10 @@ p strong {
     margin-left: 20px;
     font-size: 1.5em;
 }
+#fotoPerfil{
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+    width: 200px;
+    height: 240px;
+}
