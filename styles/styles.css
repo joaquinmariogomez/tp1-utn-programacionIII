@@ -54,3 +54,24 @@ div p strong {
     color: rgb(0, 0, 0);
     font-size: 1em;
 }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+}
+
+td a{
+    color: blue;
+    text-decoration:dotted;
+}
